@@ -1,12 +1,19 @@
-# UTS Pemrograman Mobile - Aplikasi Flutter
+# 📱 Jawaban Soal Nomor 1 - UTS Pemrograman Mobile
 
-## Identitas Mahasiswa
+**Mata Kuliah:** Pemrograman Mobile  
+**Program Studi:** Informatika  
+**Kelas:** AA  
+**Dosen Pengampu:** Galih Ashari R., S.Si., MT  
+**Tanggal Ujian:** 13 November 2025  
+**Sifat Ujian:** Open Referensi / Open Project
 
-- **Nama**: Riza Maulana Tamsirin
-- **NIM**: 152023109
-- **Kelas**: AA
-- **Mata Kuliah**: Pemrograman Mobile
-- **Dosen**: Galih Ashari R., S.Si., MT
+---
+
+## 👨‍🎓 Identitas Mahasiswa
+
+| Nama                      | NIM           | Kelas  |
+| ------------------------- | ------------- | ------ |
+| **Riza Maulana Tamsirin** | **152023109** | **AA** |
 
 ## Link Repository GitHub
 
@@ -85,9 +92,13 @@ Aplikasi mobile berbasis Flutter yang menampilkan 5 halaman utama dengan berbaga
 | ------------------------------------------------------ | ------------------------------------------------ | ------------------------------------------------------ |
 | <img src="screenshots/splash_screen.png" width="250"/> | <img src="screenshots/biodata.png" width="250"/> | <img src="screenshots/daftar_kontak.png" width="250"/> |
 
-| Kalkulator                                          | Cuaca                                          | Berita                                          |
+| Kalkulator                                          | Cuaca (1)                                      | Cuaca (2)                                       |
 | --------------------------------------------------- | ---------------------------------------------- | ----------------------------------------------- |
-| <img src="screenshots/kalkulator.png" width="250"/> | <img src="screenshots/cuaca.png" width="250"/> | <img src="screenshots/berita.png" width="250"/> |
+| <img src="screenshots/kalkulator.png" width="250"/> | <img src="screenshots/cuaca.png" width="250"/> | <img src="screenshots/cuaca2.png" width="250"/> |
+
+| Berita (1)                                      | Berita (2)                                       |     |
+| ----------------------------------------------- | ------------------------------------------------ | --- |
+| <img src="screenshots/berita.png" width="250"/> | <img src="screenshots/berita2.png" width="250"/> |     |
 
 ## Widget dan Layout yang Digunakan
 
