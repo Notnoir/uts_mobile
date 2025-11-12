@@ -81,37 +81,13 @@ Aplikasi mobile berbasis Flutter yang menampilkan 5 halaman utama dengan berbaga
 
 ## Screenshots
 
-### Splash Screen
+| Splash Screen                                          | Biodata                                          | Kontak                                                 |
+| ------------------------------------------------------ | ------------------------------------------------ | ------------------------------------------------------ |
+| <img src="screenshots/splash_screen.png" width="250"/> | <img src="screenshots/biodata.png" width="250"/> | <img src="screenshots/daftar_kontak.png" width="250"/> |
 
-<img src="screenshots/splash_screen.png" width="300">
-
-### Halaman Biodata
-
-<img src="screenshots/biodata.png" width="300">
-
-### Daftar Kontak
-
-<img src="screenshots/daftar_kontak.png" width="300">
-
-### Kalkulator
-
-<img src="screenshots/kalkulator.png" width="300">
-
-### Halaman Cuaca (1)
-
-<img src="screenshots/cuaca.png" width="300">
-
-### Halaman Cuaca (2)
-
-<img src="screenshots/cuaca2.png" width="300">
-
-### Halaman Berita (1)
-
-<img src="screenshots/berita.png" width="300">
-
-### Halaman Berita (2)
-
-<img src="screenshots/berita2.png" width="300">
+| Kalkulator                                          | Cuaca                                          | Berita                                          |
+| --------------------------------------------------- | ---------------------------------------------- | ----------------------------------------------- |
+| <img src="screenshots/kalkulator.png" width="250"/> | <img src="screenshots/cuaca.png" width="250"/> | <img src="screenshots/berita.png" width="250"/> |
 
 ## Widget dan Layout yang Digunakan
 
