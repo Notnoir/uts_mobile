@@ -1,4 +1,4 @@
-# 📱 Jawaban Soal Nomor 1 - UTS Pemrograman Mobile
+# Jawaban Soal Nomor 1 - UTS Pemrograman Mobile
 
 **Mata Kuliah:** Pemrograman Mobile  
 **Program Studi:** Informatika  
@@ -9,7 +9,7 @@
 
 ---
 
-## 👨‍🎓 Identitas Mahasiswa
+## Identitas Mahasiswa
 
 | Nama                      | NIM           | Kelas  |
 | ------------------------- | ------------- | ------ |
@@ -199,4 +199,4 @@ screenshots/                       # Screenshot aplikasi
 
 ---
 
-**Dibuat dengan menggunakan Flutter**
+**Dibuat oleh Riza Maulana Tamsirin**
