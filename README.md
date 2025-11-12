@@ -4,9 +4,9 @@
 
 - **Nama**: Riza Maulana Tamsirin
 - **NIM**: 152023109
-- **Kelas**: IF-5
+- **Kelas**: AA
 - **Mata Kuliah**: Pemrograman Mobile
-- **Dosen**: [Nama Dosen]
+- **Dosen**: Galih Ashari R., S.Si., MT
 
 ## Link Repository GitHub
 
@@ -79,6 +79,40 @@ Aplikasi mobile berbasis Flutter yang menampilkan 5 halaman utama dengan berbaga
 - Card design dengan gradient
 - Badge kategori berwarna
 
+## Screenshots
+
+### Splash Screen
+
+![Splash Screen](screenshots/splash_screen.png)
+
+### Halaman Biodata
+
+![Halaman Biodata](screenshots/biodata.png)
+
+### Daftar Kontak
+
+![Daftar Kontak](screenshots/daftar_kontak.png)
+
+### Kalkulator
+
+![Kalkulator](screenshots/kalkulator.png)
+
+### Halaman Cuaca (1)
+
+![Halaman Cuaca 1](screenshots/cuaca.png)
+
+### Halaman Cuaca (2)
+
+![Halaman Cuaca 2](screenshots/cuaca2.png)
+
+### Halaman Berita (1)
+
+![Halaman Berita 1](screenshots/berita.png)
+
+### Halaman Berita (2)
+
+![Halaman Berita 2](screenshots/berita2.png)
+
 ## Widget dan Layout yang Digunakan
 
 ### Widget Dasar
@@ -136,17 +170,6 @@ flutter run
 ```bash
 flutter build apk --release
 ```
-
-## Screenshots
-
-Lihat folder `screenshots/` untuk tangkapan layar aplikasi:
-
-- `splash_screen.png` - Splash Screen (tampilan awal aplikasi)
-- `biodata.png` - Halaman Biodata
-- `daftar_kontak.png` - Halaman Daftar Kontak
-- `kalkulator.png` - Halaman Kalkulator
-- `cuaca.png` & `cuaca2.png` - Halaman Cuaca
-- `berita.png` & `berita2.png` - Halaman Berita
 
 ## Struktur Project
 
